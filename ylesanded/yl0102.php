@@ -1,13 +1,13 @@
 <?php  
-for ($i = -11; $i < -2; $i = $i + 1)
-
+for ($i=-11; $i<=10; $i++)
 {
-  echo "$i";
-  echo "<br>";
-} 
-if ($i==-3); $i < 10; $i= +3 ;
+if ($i<-2)
 {
-  echo "$i";
-  echo "<br>";
-} 
-?>
+	echo "$i <br>";
+		
+}
+if ($i>2)
+{
+echo "$i <br>";
+	}
+}
